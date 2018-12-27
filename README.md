@@ -1,2 +1,2 @@
 # e-tiket
-percobaan untuk membuat e-tikiet
+percobaan untuk membuat e-tiket
